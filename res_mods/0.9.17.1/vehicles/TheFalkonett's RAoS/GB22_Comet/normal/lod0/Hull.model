@@ -1,0 +1,10 @@
+<hull.model>
+  <nodefullVisual>vehicles/TheFalkonett's RAoS/GB22_Comet/normal/lod0/Hull</nodefullVisual>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.587 -0.625677 -3.27751</min>
+    <max>1.5653 0.723428 3.2036</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+</hull.model>
